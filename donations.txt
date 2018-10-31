@@ -1525,8 +1525,8 @@
     },{
         "date": "1397/06/11 18:52",
         "name": "AliNâ",
-        "img": "",
-        "web": "",
+        "img": "https://en.gravatar.com/userimage/52192213/3272468e5653a11909dcccceb6af1d13.jpeg",
+        "web": "https://openrepos.net/users/alina",
         "amount": 2000
     },{
         "date": "1397/06/14 10:29",
@@ -1639,8 +1639,8 @@
     },{
         "date": "1397/08/06 00:00",
         "name": "علی نجفی",
-        "img": "",
-        "web": "",
+        "img": "https://en.gravatar.com/userimage/52192213/3272468e5653a11909dcccceb6af1d13.jpeg",
+        "web": "https://t.me/WattHour",
         "amount": 10000
     }
 ]
